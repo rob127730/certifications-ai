@@ -2,7 +2,7 @@
 
 | Certification | Organisme | Fichier |
 |---|---|---|
-| Basics of ML Algorithms | Uniatena | [Voir le certificat](certifications/Basics_Of_ML_Algorithms.pdf) |
+| Basics of ML Algorithms | Uniatena | [Voir le certificat]( Basics_Of_ML_Algorithms.pdf) |
 | My Learning - Deep Learning | NVIDIA | [Voir le certificat](certifications/My_Learning_NVIDIA_DL.pdf) |
 | Python - Les Bases | Uniatena | [Voir le certificat](certifications/) |
 | Éléments de l'IA | Elements of AI | [Voir le certificat](certifications/certificate-elements-of-ai-fr.png) |
